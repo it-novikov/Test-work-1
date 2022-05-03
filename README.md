@@ -1,5 +1,5 @@
 # InvoltaTestTask
-App resembling a messenger.
+💬 App resembling a messenger.
 
 It:
 
